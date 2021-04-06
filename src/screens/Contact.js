@@ -72,7 +72,7 @@ function Contact() {
         <br />
         <Image
           className="img5"
-          src="The_Creation_Michelangelo.jpg"
+          src="The_Creation_Michelangelo.jpeg"
           fluid rounded
         />
         
