@@ -1,0 +1,64 @@
+/* *{
+background: #000;
+}
+
+.App{
+ color: rgb(255, 255, 255);
+} */
+
+.img1 {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
+  
+}
+
+.name{
+  color: beige;
+}
+
+.dis{
+  color:darkgrey
+}
+
+.skills{
+  display: inline;
+}
+
+.img2{
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
+  width:100%;
+  opacity: 50%;
+}
+
+.img3{
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(50%);
+  width:100%;
+  /* border-style: groove; */
+  border: 5px dotted rgb(62, 168, 238);
+}
+
+.img4{
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
+  width:100%;
+
+}
+
+.img5{
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
+  width:100%;
+  opacity: 50%;
+}
+
+
+
+h6{
+  color: beige;
+}
+
+h2{
+  color: rgb(255, 255, 6);
+}
